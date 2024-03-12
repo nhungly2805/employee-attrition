@@ -13,19 +13,32 @@ Before addressing the questions, an assessment of data accuracy is imperative. T
 Link to the dashboard: https://public.tableau.com/app/profile/nhung.ly/viz/Employeeatrrition/Dashboard1
 ### Question number 1: Overall Attrition Statistics
 A total of 237 individuals left the company, categorized by gender, education field, and marital status.
-- By gender:Female: 87
+- By gender:
+
+Female: 87
+
 Male: 150
 - By education field:
+  
 Human Resources: 7
-<space><space>Life sciences: 89
-<space><space>Marketing: 35
-<space><space>Medical: 63
-<space><space>Technical degree: 32
-<space><space>Other: 11
+
+Life sciences: 89
+
+Marketing: 35
+
+Medical: 63
+
+Technical degree: 32
+
+Other: 11
+
 - By marital status:
-<space><space>Divorced: 33
-<space><space>Married: 84
-<space><space>Single: 120
+
+Divorced: 33
+
+Married: 84
+
+Single: 120
 ### Question number 2:
 To precisely identify the elements influencing attrition decisions, we must **rely on the attrition rate across various attributes, considering the substantial disparities in the number of individuals within each distinct element**.
 - _Overtime_:
