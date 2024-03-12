@@ -3,7 +3,6 @@ In the dynamic landscape of business, comprehending and mitigating employee attr
 # Data source:
 The data used for this analysis is an augmented version created by real IBM data scientists, though not precisely reflective of actual data. The dataset can be accessed here.
 
-
 Link to dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 # Business questions:
 1. How many people leave the company?
