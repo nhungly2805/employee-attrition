@@ -13,8 +13,8 @@ Link to the dashboard: https://public.tableau.com/app/profile/nhung.ly/viz/Emplo
 ### Question number 1: Overall Attrition Statistics
 A total of 237 individuals left the company, categorized by gender, education field, and marital status.
 - By gender:
-Female: 87
-Male: 150
+/n Female: 87
+/n Male: 150
 - By education field:
 Human Resources: 7
 Life sciences: 89
