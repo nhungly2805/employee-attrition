@@ -2,7 +2,7 @@
 In the dynamic landscape of business, comprehending and mitigating employee attrition is crucial for organizational success. Employee turnover not only disrupts workforce stability but also profoundly impacts productivity and overall performance. This report delves into the realm of human resources data analytics, conducting a short analysis of employee attrition by dissecting HR data and employee performance to uncover valuable insights into the factors influencing attrition.
 # Data source:
 The data used for this analysis is an augmented version created by real IBM data scientists, though not precisely reflective of actual data. The dataset can be accessed here.
-Link to dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+  Link to dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 # Business questions:
 1. How many people leave the company?
 2. Which factors contribute to the decision to leave the company?
