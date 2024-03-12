@@ -42,20 +42,26 @@ Single: 120
 ### Question number 2:
 To precisely identify the elements influencing attrition decisions, we must **rely on the attrition rate across various attributes, considering the substantial disparities in the number of individuals within each distinct element**.
 - _Overtime_:
-<space><space>Employees **working overtime exhibit a 31% attrition rate compared to 10% for those without overtime requirements.**
-<space><space>--> The substantial difference in attrition rates highlights the potential strain imposed by overtime on employee retention, emphasizing the need for a balanced workload.
+
+Employees **working overtime exhibit a 31% attrition rate compared to 10% for those without overtime requirements.**
+
+--> The substantial difference in attrition rates highlights the potential strain imposed by overtime on employee retention, emphasizing the need for a balanced workload.
 - _Business travel_:
-<space><space>No Travel: 8%
-<space><space>Rare Travel: 14.96%
-<space><space>Frequent Travel: 24.91%
-<space><space>--> The **escalating attrition rate with increased travel frequency** underscores the importance of assessing the impact of business trips on employee satisfaction and retention.
-<space><space>- _Departments_:
-<space><space>The rate of people leaving between departments is relatively equal: 19.05% for human resources, 13.84% for research and development, and 20.63% for the sales department.
-<space><space>- _Position_:
-<space><space>**A notable thing here is that sales representatives have a very high churn rate, nearly 40%**.
-<space><space>- _Job level_:
-<space><space>The inverse relationship between job level and attrition indicates potential dissatisfaction among lower-level employees, necessitating a review of career growth opportunities and recognition.
-<space><space>- _Job satisfaction, environment satisfaction, job involvement, and work-life balance_
+
+No Travel: 8%
+
+Rare Travel: 14.96%
+
+Frequent Travel: 24.91%
+
+--> The **escalating attrition rate with increased travel frequency** underscores the importance of assessing the impact of business trips on employee satisfaction and retention.
+- _Departments_:
+The rate of people leaving between departments is relatively equal: 19.05% for human resources, 13.84% for research and development, and 20.63% for the sales department.
+- _Position_:
+**A notable thing here is that sales representatives have a very high churn rate, nearly 40%**.
+- _Job level_:
+The inverse relationship between job level and attrition indicates potential dissatisfaction among lower-level employees, necessitating a review of career growth opportunities and recognition.
+- _Job satisfaction, environment satisfaction, job involvement, and work-life balance_
 Among these four factors, the emphasis should be placed on job involvement, as individuals assigning the **lowest scores exhibit a significant churn rate of up to 33.73%. In contrast, those with the highest scores experience a churn rate of less than 10%**. This underscores the critical importance of prioritizing job involvement when formulating effective talent retention policies for companies.
 ### Suggestions:
 To improve the attrition rate of the company, the HR team should prioritize improving job involvement. Additionally, investigating and addressing the reasons behind the high attrition among sales representatives is crucial. Efforts to reduce overtime/business travel demands or provide higher compensation for overtime work/business travel could enhance overall job satisfaction and retention.
