@@ -5,13 +5,15 @@ The data used for this analysis is an augmented version created by real IBM data
 
 Link to dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 # Business questions:
-1. How many people leave the company?
-2. Which factors contribute to the decision to leave the company?
+1. What is the overall picture of the company's human resources situation?
+2. Which factors contribute to the attrition rate?
+3. In the future, in what ways can the company help retain employees?
 ## Data accuracy:
 Before addressing the questions, an assessment of data accuracy is imperative. The dataset comprises 1470 unique values with no missing entries across all columns, and no alterations were made to the original database.
 ## Answering questions:
 Link to the dashboard: https://public.tableau.com/app/profile/nhung.ly/viz/Employeeatrrition/Dashboard1
-### Question number 1: Overall Attrition Statistics
+### Question number 1: What is the overall picture of the company's human resources situation?
+
 A total of 237 individuals left the company, categorized by gender, education field, and marital status.
 - By gender:
 
@@ -39,6 +41,11 @@ Divorced: 33
 Married: 84
 
 Single: 120
+![image](https://github.com/nhungly2805/employee-attrition/assets/128270865/38928c5a-c1cb-4a84-bda1-a1c8f35a13c8)
+
+![image](https://github.com/nhungly2805/employee-attrition/assets/128270865/112287c9-ffbf-43b9-aae0-3b53dae016a0)
+
+
 ### Question number 2:
 To precisely identify the elements influencing attrition decisions, we must **rely on the attrition rate across various attributes, considering the substantial disparities in the number of individuals within each distinct element**.
 - _Overtime_:
@@ -63,6 +70,13 @@ The rate of people leaving between departments is relatively equal: 19.05% for h
 The inverse relationship between job level and attrition indicates potential dissatisfaction among lower-level employees, necessitating a review of career growth opportunities and recognition.
 - _Job satisfaction, environment satisfaction, job involvement, and work-life balance_
 Among these four factors, the emphasis should be placed on job involvement, as individuals assigning the **lowest scores exhibit a significant churn rate of up to 33.73%. In contrast, those with the highest scores experience a churn rate of less than 10%**. This underscores the critical importance of prioritizing job involvement when formulating effective talent retention policies for companies.
+
+![image](https://github.com/nhungly2805/employee-attrition/assets/128270865/be18aa1c-229c-4e5d-95d4-d457288ed045)
+
+![image](https://github.com/nhungly2805/employee-attrition/assets/128270865/42066c6e-94d6-454e-90c5-4666b7373121)
+![image](https://github.com/nhungly2805/employee-attrition/assets/128270865/4b4917a9-adfa-445b-a96f-3cbcebd6418a)
+
+
 ### Suggestions:
 To improve the attrition rate of the company, the HR team should prioritize improving job involvement. Additionally, investigating and addressing the reasons behind the high attrition among sales representatives is crucial. Efforts to reduce overtime/business travel demands or provide higher compensation for overtime work/business travel could enhance overall job satisfaction and retention.
 ![image](https://github.com/nhungly2805/employee-attrition/assets/128270865/8c97ac60-1fbd-47e8-9904-c3207d5ab300)
