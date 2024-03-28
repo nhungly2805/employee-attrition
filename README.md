@@ -19,6 +19,18 @@ Before addressing the questions, an assessment of data accuracy is imperative. T
 
 Overall, IBM has 1470 employees, among whom 237 have left the company, and 1233 are still working. 
 
+**Overall demographic analysis of the company's workforce:**
+
+The youngest employee is 18, and the oldest is 60. To delve deeper into this factor, I categorize employees into 5 age groups as follows: <20, 20-29, 30-39, 40-49, and>50. The group with the highest number of employees is aged 30-39, with 622 employees. The lowest is the <20 age group with 17 employees. The ratio of men and women between groups is relatively equal.
+
+In terms of gender, although the total number of female employees is lower than male employees, the average income of female employees is higher, **indicating no gender discrimination in the workplace.**
+
+Analyzing marital status, the proportion of married individuals is 45.78%, single individuals are 31.97%, and divorced individuals are 22.24%.
+
+The attrition rate is currently at 16.12%. On average, employees tend to stay with the organization for around 7 years. Based on these metrics, it appears that IBM has a good level of employee attachment.
+
+![image](https://github.com/nhungly2805/employee-attrition/assets/128270865/112287c9-ffbf-43b9-aae0-3b53dae016a0)
+
 **Regarding the active workforce:**
 
 - _Department_:
@@ -39,18 +51,6 @@ For managerial positions, there are 51 Research and Development managers, 31 Sal
 
 ![image](https://github.com/nhungly2805/employee-attrition/assets/128270865/38928c5a-c1cb-4a84-bda1-a1c8f35a13c8)
 
-**Overall demographic analysis of the company's workforce:**
-
-The youngest employee is 18, and the oldest is 60. To delve deeper into this factor, I categorize employees into 5 age groups as follows: <20, 20-29, 30-39, 40-49, and>50. The group with the highest number of employees is aged 30-39, with 622 employees. The lowest is the <20 age group with 17 employees. The ratio of men and women between groups is relatively equal.
-
-In terms of gender, although the total number of female employees is lower than male employees, the average income of female employees is higher, **indicating no gender discrimination in the workplace.**
-
-Analyzing marital status, the proportion of married individuals is 45.78%, single individuals are 31.97%, and divorced individuals are 22.24%.
-
-The attrition rate is currently at 16.12%. On average, employees tend to stay with the organization for around 7 years. Based on these metrics, it appears that IBM has a good level of employee attachment.
-
-![image](https://github.com/nhungly2805/employee-attrition/assets/128270865/112287c9-ffbf-43b9-aae0-3b53dae016a0)
-
 
 ### Question number 2: Which factors contribute to the attrition rate?
 
@@ -66,13 +66,14 @@ The attrition rate within the <20 age group is the highest. This group has a sma
 
 The rate of people leaving between departments is relatively equal: 19.05% for human resources, 13.84% for research and development, and 20.63% for the sales department.
 
-- _Job Role_:
-- 
-**A notable thing here is that sales representatives have a very high churn rate, nearly 40%**.
+- _Job Role_: **A notable thing here is that sales representatives have a very high churn rate, nearly 40%**.
   
 - _Job satisfaction, environment satisfaction, job involvement, and work-life balance_
 
 Among these four factors, the emphasis should be placed on job involvement, as individuals assigning the **lowest scores exhibit a significant churn rate of up to 33.73%. In contrast, those with the highest scores experience a churn rate of less than 10%**. This underscores the critical importance of prioritizing job involvement when formulating effective talent retention policies for companies.
+
+![image](https://github.com/nhungly2805/employee-attrition/assets/128270865/5867c340-bab8-47ac-a8e2-5ff2204a3970)
+
 
 ### Question number 3: In the future, in what ways can the company help retain employees?
 
